@@ -53,27 +53,207 @@ Grading
 
 This course is composed of three separate lab modules. Each module has similar grading schemes differing principally in the format of the final report (see below). Students will receive a distinct letter grade for each module upon completion of the module and after marks have been tabulated. Once all three modules are completed (not necessarily in the same semester), students will receive an overall letter grade for 5.35 that is based on an equal weighting of the grades for each of the three modules.
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Module 1—Grading Scheme**{{< /td-colspan >}} ||
-| Laboratory Quizzes | 10 points |
-| Pre-lab Preparation | 10 points |
-| The Factual Record (notebook, data, plots) | 20 points |
-| Technique, Safety | 10 points |
-| Oral Report (incl submitted data analysis) | 50 points |
-| Total | 100 points |
-| {{< td-colspan 2 >}}**Module 2—Grading Scheme**{{< /td-colspan >}} ||
-| Laboratory Quizzes | 10 points |
-| Pre-lab Preparation | 10 points |
-| The Factual Record (notebook, data, plots) | 15 points |
-| Technique, Safety | 10 points |
-| Waste Inventory | 5 points |
-| Written Report + Report Interview | 50 points |
-| Total | 100 points |
-| {{< td-colspan 2 >}}**Module 3—Grading Scheme**{{< /td-colspan >}} ||
-| Laboratory Quizzes | 15 points |
-| Pre-lab Preparation | 10 points |
-| The Factual Record (notebook, data, plots) | 15 points |
-| Technique, Safety | 10 points |
-| Written Report | 50 points |
-| Total | 100 points
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 1—Grading Scheme**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pre-lab Preparation
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Factual Record (notebook, data, plots)
+{{< tdclose >}}
+{{< tdopen >}}
+20 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Technique, Safety
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Report (incl submitted data analysis)
+{{< tdclose >}}
+{{< tdopen >}}
+50 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+100 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 2—Grading Scheme**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pre-lab Preparation
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Factual Record (notebook, data, plots)
+{{< tdclose >}}
+{{< tdopen >}}
+15 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Technique, Safety
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Waste Inventory
+{{< tdclose >}}
+{{< tdopen >}}
+5 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Report + Report Interview
+{{< tdclose >}}
+{{< tdopen >}}
+50 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+100 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 3—Grading Scheme**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+15 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pre-lab Preparation
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Factual Record (notebook, data, plots)
+{{< tdclose >}}
+{{< tdopen >}}
+15 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Technique, Safety
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Report
+{{< tdclose >}}
+{{< tdopen >}}
+50 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+100 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

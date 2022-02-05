@@ -4,30 +4,218 @@ title: Calendar
 uid: 3ad11aa0-d66c-6b7f-787c-84226684e0a2
 ---
 
-| WEEK # | LECTURE & LAB TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Module 1**{{< /td-colspan >}} ||
-| 1 | Introduction to Electronic Spectroscopy (Experiments 2–4) |
-| 2 | IR Spectroscopy (Experiments 5–6) |
-| 3 | IR Spectroscopy of Proteins (Experiment 7) |
-| 4 | TeachSpin 15 MHz NMR (Experiment 8) |
-| 5 | NMR, 300 MHz (Experiment 9) |
-| 6 | Oral Examinations |
-| {{< td-colspan 2 >}}**Module 2**{{< /td-colspan >}} ||
-| 7 | Synthesis of \[Co(NNH3)4(CO3)\]NO3 |
-| 8 | Synthesis of \[Co(NNH3)5Cl\]Cl2 |
-| 9 | Lambert-Beer study |
-| 10 | Kinetics Measurements at 60 C |
-| 11 | Kinetics Measurements at 40 C |
-| 12 | Kinetics Measurements at 70 C |
-| 13 | Report Interview |
-| {{< td-colspan 2 >}}**Module 3**{{< /td-colspan >}} ||
-| 14 |  Polymer Synthesis |
-| 15 |  Polymer Work-up and Purification |
-| 16 |  GPC Characterization and UV-Vis Characterization |
-| 17 |  Device Fabrication |
-| 18 |  Device measurements |
-| 19 |  Device measurements |
-| 20 |  Device measurements 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE & LAB TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Electronic Spectroscopy (Experiments 2–4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+IR Spectroscopy (Experiments 5–6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+IR Spectroscopy of Proteins (Experiment 7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+TeachSpin 15 MHz NMR (Experiment 8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+NMR, 300 MHz (Experiment 9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Examinations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Synthesis of \[Co(NNH3)4(CO3)\]NO3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Synthesis of \[Co(NNH3)5Cl\]Cl2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lambert-Beer study
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Measurements at 60 C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Measurements at 40 C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Measurements at 70 C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Report Interview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+ Polymer Synthesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+ Polymer Work-up and Purification
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+ GPC Characterization and UV-Vis Characterization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+ Device Fabrication
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+ Device measurements
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+ Device measurements
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+ Device measurements
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 NOTE: Module 3 is not available on OCW.
